@@ -1,0 +1,7 @@
+organization=angelapellecchia
+projectKey=AngelaPellecchia_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=AngelaPellecchia_ProyectoJavaMaven
+ceTaskId=AXqi7Iz5yQMh4RvsfR5s
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqi7Iz5yQMh4RvsfR5s
